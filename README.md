@@ -1,2 +1,1 @@
-# ateek_portfolio
-Analytics Portfolio
+# This project is about writing some queries on SQl
